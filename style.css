@@ -1,0 +1,47 @@
+.col{
+
+    height: 80px;
+    
+}
+
+#c{
+
+    background-color: red;
+}
+
+
+#b{
+
+    background-color:purple;
+}
+
+
+#d{
+
+    background-color:orange;
+}
+
+
+#e{
+
+    background-color: yellow;
+}
+
+
+#f{
+
+    background-color:greenyellow;
+}
+
+
+#g{
+
+    background-color: rgb(0, 183, 255);
+}
+
+
+#a{
+
+    background-color: rgb(0, 17, 255);
+}
+
